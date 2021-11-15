@@ -1,0 +1,22 @@
+*{
+    background-color: black;
+}
+
+.main_heading{
+    color: white;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: xxx-large;
+    position: relative;
+    left: 176px;
+    top: 36px;
+}
+
+.main_heading_list{
+    color: white;
+    font-family: 'Roboto Condensed', sans-serif;
+    position: relative;
+    bottom: 51px;
+    left: 300px;
+    font-size: 45px;
+    font-weight: 100;
+}
