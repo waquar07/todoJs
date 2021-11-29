@@ -1,5 +1,6 @@
 *{
     background-color: black;
+    width: max-content;
 }
 
 .main_heading{
@@ -12,11 +13,51 @@
 }
 
 .main_heading_list{
-    color: white;
+    color: papayawhip;
     font-family: 'Roboto Condensed', sans-serif;
     position: relative;
     bottom: 51px;
     left: 300px;
     font-size: 45px;
     font-weight: 100;
+}
+
+.fa-plus-circle{
+    color: dodgerblue;
+    /* height: 27px;
+    width: 27px;
+    border-radius: 50%; */
+    position: relative;
+    left: 1029px;
+    bottom: 130px;
+    font-size: 30px;
+}
+
+.add_item{
+    font-family: 'Roboto Condensed', sans-serif;
+    color: papayawhip;
+    font-weight: 100;
+    position: relative;
+    bottom: 185px;
+    left: 1069px;
+}
+
+.details{
+    font-family: 'Roboto Condensed', sans-serif;
+    color: papayawhip;
+    font-size: 30px;
+    position: relative;
+    bottom: 170px;
+    left: 183px;
+}
+
+.card{
+    background-color: white;
+    background-color: white;
+    position: absolute;
+    height: 300px;
+    width: 210px;
+    border-radius: 8px;
+    bottom: 186px;
+    left: 189px;
 }
